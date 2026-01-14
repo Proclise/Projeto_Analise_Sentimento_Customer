@@ -1,6 +1,6 @@
 # Projeto_Analise_Sentimento_Customer
 
-O Problema de Negócio: Agências de marketing em questão gerenciava múltiplos clientes com milhares de comentários diários. A análise manual é lenta e propensa a erros, resultando em respostas demoradas a clientes insatisfeitos e perda de oportunidades de retenção.
+O Problema de Negócio: Agência de marketing em questão gerenciava múltiplos clientes com milhares de comentários diários. A análise manual é lenta e propensa a erros, resultando em respostas demoradas a clientes insatisfeitos e perda de oportunidades de retenção.
 
 A Solução: Um pipeline de NLP (Processamento de Linguagem Natural) que utiliza modelos de Deep Learning para classificar feedbacks em tempo real. O sistema identifica detratores instantaneamente para intervenção da equipe de Customer Experience (CX).
 
